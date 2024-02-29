@@ -1,0 +1,21 @@
+{
+    "login": {
+        "username": "114514",
+        "password": "114514"
+    },
+    "class": {
+        "key": "",
+        "type": "A0"
+    },
+    "speed": 250,
+    "AES": {
+        "key": "MWMqg2tPcDkxcm11"
+    },
+    "url": {
+        "captcha": "https://jwxk.hrbeu.edu.cn/xsxk/auth/captcha",
+        "login": "https://jwxk.hrbeu.edu.cn/xsxk/auth/hrbeu/login",
+        "list": "https://jwxk.hrbeu.edu.cn/xsxk/elective/clazz/list",
+        "add": "https://jwxk.hrbeu.edu.cn/xsxk/elective/clazz/add"
+    },
+    "image": "./image.png"
+}
